@@ -1,3 +1,6 @@
+git remote add origin https://github.com/CurtiL/DFproject.git
+git branch -M main
+git push -u origin main
 {
     "context": {
         "UnitOfMeasureScale": 0.01,
